@@ -6,7 +6,7 @@ SELECT * FROM students
 WHERE score > 80;
 
 SELECT * FROM students
-WHERE score > 80 AND passed = 1;
+WHERE score > 80 AND passed = 1; 
 
 SELECT * FROM students 
 WHERE score > 85 OR class = 9;
